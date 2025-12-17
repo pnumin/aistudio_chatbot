@@ -1,0 +1,5 @@
+{
+  "name": "Navy EduBot",
+  "description": "A dedicated chatbot for the Republic of Korea Navy Education and Training Command website (https://www.edunavy.mil.kr:10003/), answering questions based on site content.",
+  "requestFramePermissions": []
+}
